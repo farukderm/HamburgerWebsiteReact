@@ -1,6 +1,6 @@
 # Hamburger Satış Web Sitesi
 
-Bu proje, React, react-router-dom, react-icons ve CSS kullanılarak geliştirilmiş bir hamburger satış web sitesidir. Kullanıcılar farklı hamburger çeşitlerini görüntüleyebilir, sepetlerine ekleyebilir ve sipariş verebilirler.
+Bu proje, React, react-router-dom, react-icons ve CSS kullanılarak geliştirilmiş bir hamburger satış web sitesidir. Kullanıcılar farklı hamburger çeşitlerini görüntüleyebilirler.
 
 ## Özellikler
 
