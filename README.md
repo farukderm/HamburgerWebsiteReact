@@ -18,7 +18,8 @@ Bu proje, React, react-router-dom, react-icons ve CSS kullanılarak geliştirilm
 
 ## Ekran Görüntüsü
 
+![hamburgerreac](https://github.com/user-attachments/assets/643a8b3d-5dfb-4d50-9914-a57167e28111)
 
-https://github.com/user-attachments/assets/93f30d4a-8007-46fa-83ae-458b54f1f807
+
 
 
